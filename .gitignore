@@ -61,6 +61,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Video files (large)
-*.mp4
+
 *.mov
 *.avi
